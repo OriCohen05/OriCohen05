@@ -3,7 +3,7 @@
 <br />
 <br />
 
-- 🌱 I’m currently learning Web dev.
+- 🌱 I’m currently learning Web dev and C# In school.
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=OriCohen05&theme=greywhite&show_icons=true&count_private=true)
