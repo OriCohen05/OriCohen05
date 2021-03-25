@@ -3,8 +3,7 @@
 <br />
 <br />
 
-- 🌱 I’m currently learning Web dev
-- 📫 How to reach me: <a href="Ori | Gunt4R#0006">Ori | Gunt4R#0006</a> <h4> In discord</h4>
+- 🌱 I’m currently learning Web dev.
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=OriCohen05&theme=greywhite&show_icons=true&count_private=true)
