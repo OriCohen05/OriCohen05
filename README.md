@@ -7,7 +7,7 @@
 - Learning Csharp at school for 2 years.
 - Learning NodeJS.
 - Finished python basic course (26hr).
-- ##Soon :eyes:
+##Soon :eyes:
 - SQL
 - Big project (Client react based)
 - hash+salt encrypting
