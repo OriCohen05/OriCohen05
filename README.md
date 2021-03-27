@@ -16,12 +16,14 @@
 - hash+salt encrypting
 - Uploading fuul project: 10/4/21.
 
-
+<br>
+<br />
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=OriCohen05&theme=greywhite&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=OriCohen05&layout=compact)
 
-
+<br>
+<br />
 
 **Languages and Tools:**  
 
