@@ -3,7 +3,15 @@
 <br />
 <br />
 
-- 🌱 I’m currently learning Web dev and C# In school.
+- 🌱 I’m currently learning Web dev.
+- Learning Csharp at school for 2 years.
+- Learning NodeJS.
+- Finished python basic course (26hr).
+- ##Soon :eyes:
+- SQL
+- Big project (Client react based)
+- hash+salt encrypting
+- Uploading fuul project: 10/4/21.
 
 
 
