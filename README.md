@@ -9,7 +9,7 @@
 - Finished python basic course (26hr).
 <br>
 <br />
-### <h2> Soon :eyes: </h2>
+<h2> Soon :eyes: </h2>
 
 - SQL
 - Big project (Client react based)
