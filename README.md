@@ -18,11 +18,11 @@
 <br />
 <h2> Soon :eyes: </h2>
 
-- Web dev tools : React,Angular,Bootstrap
-- Learn mySQL
-- Big project (Client react based)
-- hash+salt encrypting
-- Uploading full project: 10/4/21.
+-  :notebook:Web dev tools : React,Angular,Bootstrap
+-  :notebook:Learn mySQL
+-  :notebook:Big project (Client react based)
+-  :notebook:hash+salt encrypting
+-  :notebook:Uploading full project: 10/4/21.
 
 <br>
 <br />
