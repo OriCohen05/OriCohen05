@@ -4,13 +4,14 @@
 <br />
 
 - 🌱 I’m currently learning Web dev.
-- Learning Csharp at school for 2 years.
-- NodeJS.
-- Finished python basic course (26hr).
-- Vanila web developer
-- Whack a mole game (Check repositories)
-- Want a free basic website? Contact me!!
-- <a href="oricohenpp@gmail.com" style="color:red;">MY MAIL</a>
+-  :dragon: Python bot developer.
+-  :globe_with_meridians: Learning Csharp at school for 2 years.
+-  :globe_with_meridians: NodeJS.
+-  :globe_with_meridians: Finished python basic course (26hr).
+-  :globe_with_meridians: Vanila web developer
+-  :globe_with_meridians: Whack a mole game (Check repositories)
+-  :globe_with_meridians: Want a free basic website? Contact me!!
+-  :globe_with_meridians: <a href="oricohenpp@gmail.com" style="color:red;">MY MAIL</a>
 <br>
 <br />
 <h2> Soon :eyes: </h2>
