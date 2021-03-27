@@ -8,7 +8,9 @@
 - Learning NodeJS.
 - Finished python basic course (26hr).
 <br>
-<strong> <h2> Soon :eyes: </h2> </strong>
+<br />
+### <h2> Soon :eyes: </h2>
+
 - SQL
 - Big project (Client react based)
 - hash+salt encrypting
