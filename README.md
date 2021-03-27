@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Web dev.
 -  :dragon: Python bot developer.
--  :bell: <a href="https://discord.com/api/oauth2/authorize?client_id=822480756316045323&permissions=67136512&scope=bot" style="color:red;">MY BOT</a>
+-  :crystal_ball: <a href="https://discord.com/api/oauth2/authorize?client_id=822480756316045323&permissions=67136512&scope=bot" style="color:red;">MY BOT</a>
 - ----------<br> 
 -  :globe_with_meridians: Learning Csharp at school for 2 years.
 -  :globe_with_meridians: NodeJS.
@@ -13,7 +13,7 @@
 -  :globe_with_meridians: Vanila web developer
 -  :globe_with_meridians: Whack a mole game (Check repositories)
 -  :globe_with_meridians: Want a free basic website? Contact me!!
--  :crystal_ball: <a href="oricohenpp@gmail.com" style="color:red;">MY MAIL</a>
+-  :bell: <a href="oricohenpp@gmail.com" style="color:red;">MY MAIL</a>
 <br>
 <br />
 <h2> Soon :eyes: </h2>
