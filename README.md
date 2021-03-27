@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently learning Web dev.
 -  :dragon: Python bot developer.
+<br>
 -  :globe_with_meridians: Learning Csharp at school for 2 years.
 -  :globe_with_meridians: NodeJS.
 -  :globe_with_meridians: Finished python basic course (26hr).
