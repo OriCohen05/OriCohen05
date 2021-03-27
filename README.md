@@ -5,16 +5,21 @@
 
 - 🌱 I’m currently learning Web dev.
 - Learning Csharp at school for 2 years.
-- Learning NodeJS.
+- NodeJS.
 - Finished python basic course (26hr).
+- Vanila web developer
+- Whack a mole game (Check repositories)
+- Want a free basic website? Contact me!!
+- <a href="oricohenpp@gmail.com" style="color:red;">MY MAIL</a>
 <br>
 <br />
 <h2> Soon :eyes: </h2>
 
-- SQL
+- Web dev tools : React,Angular,Bootstrap
+- Learn mySQL
 - Big project (Client react based)
 - hash+salt encrypting
-- Uploading fuul project: 10/4/21.
+- Uploading full project: 10/4/21.
 
 <br>
 <br />
