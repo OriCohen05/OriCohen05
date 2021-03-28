@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ori!
+### Hi there 👋, I'm Ori , Junior programmer!
 
 <br />
 <br />
