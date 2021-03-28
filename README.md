@@ -27,12 +27,9 @@
 <br>
 <br />
 <h2> 2021 GOALS </h2>
-
--  :notebook:Web dev tools : React,Angular,Bootstrap
--  :notebook:Learn mySQL
--  :notebook:Big project (Client react based)
--  :notebook:hash+salt encrypting
--  :notebook:Uploading full project: 10/4/21.
+- Graduate frontend.
+- Upload more websites and projects.
+- Finish another python course with grade of 95% or higher.
 
 <br>
 <br />
