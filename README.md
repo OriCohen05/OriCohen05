@@ -13,7 +13,7 @@
 -  :globe_with_meridians: Vanila web developer
 -  :globe_with_meridians: Whack a mole game (Check repositories)
 -  :globe_with_meridians: Want a free basic website? Contact me!!
--  :bell: <a href="oricohenpp@gmail.com" style="color:red;">MY MAIL</a>
+-  :bell: <a href="https://letmegooglethat.com/?q=My+mail+-+oricohenpp%40gmail.com" style="color:red;">MY MAIL</a>
 <br>
 <br />
 <h2> Soon :eyes: </h2>
