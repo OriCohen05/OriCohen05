@@ -9,7 +9,7 @@
 - ----------<br> 
 -  :globe_with_meridians: Learning Csharp at school for 2 years.
 -  :globe_with_meridians: NodeJS.
--  :globe_with_meridians: Finished python basic course (26 hours) <a href="https://github.com/OriCohen05/HangManGame_Project">Hangman game</a>.
+-  :globe_with_meridians: Finished python basic course (26 hours) <a href="https://github.com/OriCohen05/HangManGame_Project">PROJECT</a>.
 -  :globe_with_meridians: Vanila web developer
 -  :globe_with_meridians: Whack a mole game <a href= "https://github.com/OriCohen05/Game-Project_Vanila." > HERE </a>
 -  :globe_with_meridians: Want a free basic website? Contact me!!
