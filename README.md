@@ -26,7 +26,7 @@
 
 <br>
 <br />
-<h2> 2021 GOALS </h2>
+<h2> 2021 GOALS  :calendar: </h2>
 
 -   :unlock: Graduate frontend.
 -   :unlock: Upload more websites and projects.
