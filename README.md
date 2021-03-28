@@ -26,7 +26,12 @@
 
 <br>
 <br />
-
+<h2> 2021 GOALS </h2>
+- 1
+- 2
+- 3
+- 4
+- 5
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OriCohen05&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 <br>
