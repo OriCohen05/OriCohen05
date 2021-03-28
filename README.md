@@ -11,7 +11,7 @@
 -  :globe_with_meridians: NodeJS.
 -  :globe_with_meridians: Finished python basic course (26hr).
 -  :globe_with_meridians: Vanila web developer
--  :globe_with_meridians: Whack a mole game <a href= "https://github.com/OriCohen05/Game-Project_Vanila." > Here </a>
+-  :globe_with_meridians: Whack a mole game <a href= "https://github.com/OriCohen05/Game-Project_Vanila." > HERE </a>
 -  :globe_with_meridians: Want a free basic website? Contact me!!
 -  :bell: <a href="https://letmegooglethat.com/?q=My+mail+-+oricohenpp%40gmail.com" style="color:red;">MY MAIL</a>
 <br>
