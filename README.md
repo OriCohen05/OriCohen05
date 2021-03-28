@@ -4,7 +4,7 @@
 <br />
 
 - 🌱 I’m currently learning Web dev.
--  :dragon: Python bot developer.
+-  :dragon: Python discord bot developer.
 -  :crystal_ball: <a href="https://discord.com/api/oauth2/authorize?client_id=822480756316045323&permissions=67136512&scope=bot" style="color:red;">MY BOT</a>
 - ----------<br> 
 -  :globe_with_meridians: Learning Csharp at school for 2 years.
