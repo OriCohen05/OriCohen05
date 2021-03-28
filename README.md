@@ -27,11 +27,11 @@
 <br>
 <br />
 <h2> 2021 GOALS </h2>
-- 1
-- 2
-- 3
-- 4
-- 5
+- Graduate frontend.
+- Upload more websites and projects.
+- Finish another python course with grade of 95% or higher.
+<br>
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OriCohen05&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 <br>
