@@ -28,9 +28,9 @@
 <br />
 <h2> 2021 GOALS </h2>
 
--  Graduate frontend.
--  Upload more websites and projects.
--  Finish another python course with grade of 95% or higher.
+-   :unlock: Graduate frontend.
+-   :unlock: Upload more websites and projects.
+-   :unlock: Finish another python course with grade of 95% or higher.
 
 
 <br>
