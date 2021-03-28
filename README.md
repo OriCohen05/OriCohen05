@@ -1,4 +1,4 @@
-### Hi there  :calendar: , I'm Ori , Junior programmer!
+### Hi there   :simple_smile: , I'm Ori , Junior programmer!
 
 <br />
 <br />
