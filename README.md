@@ -27,9 +27,11 @@
 <br>
 <br />
 <h2> 2021 GOALS </h2>
-- Graduate frontend.
-- Upload more websites and projects.
-- Finish another python course with grade of 95% or higher.
+
+-  Graduate frontend.
+-  Upload more websites and projects.
+-  Finish another python course with grade of 95% or higher.
+
 
 <br>
 <br />
