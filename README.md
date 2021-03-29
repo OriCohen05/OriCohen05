@@ -7,7 +7,7 @@
 -  :dragon: Python discord bot developer.
 -  :crystal_ball: <a href="https://discord.com/api/oauth2/authorize?client_id=822480756316045323&permissions=67136512&scope=bot" style="color:red;">MY BOT</a>
 - ----------<br> 
--  :globe_with_meridians: Learning Csharp at school for 2 years.
+-  :globe_with_meridians: Learning Csharp at school for 2 years(1 year completed).
 -  :globe_with_meridians: NodeJS.
 -  :globe_with_meridians: Finished python basic course (26 hours) <a href="https://github.com/OriCohen05/HangManGame_Project">PROJECT</a>.
 -  :globe_with_meridians: Vanila web developer.
