@@ -35,7 +35,7 @@
 
 <br>
 <br />
-
+ :squirrel: :squirrel: :squirrel: :squirrel: :squirrel: :squirrel: :squirrel: :squirrel:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OriCohen05&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br />
