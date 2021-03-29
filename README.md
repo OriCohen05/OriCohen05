@@ -28,7 +28,7 @@
 <br />
 <h2> 2021 GOALS  :calendar: </h2>
 
--   :unlock: Graduate frontend. :squirrel:
+-   :unlock: Graduate frontend. 
 -   :unlock: Upload more websites and projects.
 -   :unlock: Finish another python course with grade of 95% or higher.
 
