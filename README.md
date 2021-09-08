@@ -9,7 +9,7 @@
 -  🌐 Jquery.
 -  🌐 NodeJS
 -  :globe_with_meridians: Learning Csharp at school for 2 years.
--  :globe_with_meridians: Experienced with python - check my <a href="https://github.com/OriCohen05/HangManGame_Project">PROJECT</a>.
+-  :globe_with_meridians: Experienced with python - check my game <a href="https://github.com/OriCohen05/HangManGame_Project">PROJECT</a>.
 -  :globe_with_meridians: Vanila web developer.
 -  :bell: Contact me via <a href="https://letmegooglethat.com/?q=My+mail+-+oricohenpp%40gmail.com" style="color:red;">MAIL</a>
 <br>
