@@ -3,32 +3,17 @@
 <br />
 <br />
 
-- 🌱 I’m currently learning Web dev.
--  :dragon: Python discord bot developer.
--  :crystal_ball: <a href="https://discord.com/api/oauth2/authorize?client_id=822480756316045323&permissions=67136512&scope=bot" style="color:red;">MY BOT</a>
-- ----------<br> 
--  :globe_with_meridians: Learning Csharp at school for 2 years(1 year completed).
--  :globe_with_meridians: NodeJS.
--  :globe_with_meridians: Finished python basic course (26 hours) <a href="https://github.com/OriCohen05/HangManGame_Project">PROJECT</a>.
+- 🌱 I’m a junior web developer.
+-  🌐 Vanila & React.
+-  :globe_with_meridians: Learning Csharp at school for 2 years.
+-  :globe_with_meridians: Experienced with python - check my <a href="https://github.com/OriCohen05/HangManGame_Project">PROJECT</a>.
 -  :globe_with_meridians: Vanila web developer.
--  :globe_with_meridians: Whack a mole game <a href= "https://github.com/OriCohen05/Game-Project_Vanila." > HERE </a>
--  :globe_with_meridians: Want a free basic website? Contact me!!
--  :bell: <a href="https://letmegooglethat.com/?q=My+mail+-+oricohenpp%40gmail.com" style="color:red;">MY MAIL</a>
+-  :bell: Contact me via <a href="https://letmegooglethat.com/?q=My+mail+-+oricohenpp%40gmail.com" style="color:red;">MAIL</a>
 <br>
 <br />
-<h2> Soon :eyes: </h2>
-
--  :notebook:Web dev tools : React,Angular,Bootstrap
-
+<h1> I am learning all the material from GitHub </h1> 
 <br>
 <br />
-<h2> 2021 GOALS  :calendar: </h2>
-
--   :unlock: Graduate frontend. 
--   :unlock: Upload more websites and projects.
--   :unlock: Finish another python course with grade of 95% or higher.
-
-
 <br>
 <br />
 
