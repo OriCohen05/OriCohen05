@@ -5,6 +5,8 @@
 
 - 🌱 I’m a junior web developer.
 -  🌐 Vanila & React.
+-  🌐 TypeScript.
+-  🌐 Jquery.
 -  :globe_with_meridians: Learning Csharp at school for 2 years.
 -  :globe_with_meridians: Experienced with python - check my <a href="https://github.com/OriCohen05/HangManGame_Project">PROJECT</a>.
 -  :globe_with_meridians: Vanila web developer.
