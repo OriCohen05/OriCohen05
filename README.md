@@ -1,4 +1,4 @@
-### Hey. I'm Ori , Junior programmer!
+### Hey. I'm Ori Junior programmer!
 
 <br />
 <br />
@@ -13,7 +13,7 @@
 -  :globe_with_meridians: Vanila web developer.
 -  :bell: Contact me via <a href="https://letmegooglethat.com/?q=My+mail+-+oricohenpp%40gmail.com" style="color:red;">MAIL</a>
 
-<a href="https://app.daily.dev/OriCohen"><img src="https://api.daily.dev/devcards/7466ff0a031e47bb8c0e050ab2334cf5.png?r=tv6" width="400" alt="Ori Cohen's Dev Card"/></a>
+<a href="https://app.daily.dev/OriCohen"><img src="https://api.daily.dev/devcards/7466ff0a031e47bb8c0e050ab2334cf5.png?r=tv6" width="400" height="320" alt="Ori Cohen's Dev Card"/></a>
 
 <br>
 <br />
