@@ -1,6 +1,8 @@
 ### Hey. I'm Ori Junior programmer!
 
-- 🌱 High school student (11).
+- 🌱 High school student.
+- Learning: Cyber - Networks with Sockets (5 points) , Computer Science - Algorithms and Data Structures in C#.
+- Web developing.
 <hr/>
 :black_nib:   <b>**Languages and Tools:**  </b>   :black_nib:
 <br><br>
