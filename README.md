@@ -2,9 +2,6 @@
 
 - 🌱 High school student (11).
 
-<h3> My certifications: </h3>
-<code><img height="250" src="https://github.com/OriCohen05/Images/blob/main/Certification-Img.jpg"></code> <code> <img height="250" src="https://github.com/OriCohen05/Images/blob/main/unknown.png"> </code> <code> <img height="250" src="https://github.com/OriCohen05/Images/blob/main/Discord-Course-JPG.jpg"></code>
-
 <a href="https://app.daily.dev/OriCohen"><img src="https://api.daily.dev/devcards/7466ff0a031e47bb8c0e050ab2334cf5.png?r=tv6" width="200" height="200" alt="Ori Cohen's Dev Card"/></a>
 
 <code><img height="40" src="https://github.com/OriCohen05/Images/blob/main/OYIaJ1KK.png"></code>
