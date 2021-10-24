@@ -3,6 +3,7 @@
 - 🌱 High school student (11).
 
 :black_nib: **Languages and Tools:**   :black_nib:
+<br>
 <code><img height="40" src="https://github.com/OriCohen05/Images/blob/main/OYIaJ1KK.png"></code>
 <code><img height="40" src="https://github.com/OriCohen05/Images/blob/main/Typescript_logo_2020.svg.png"></code>
 <code><img height="40" src="https://github.com/OriCohen05/Images/blob/main/lxEKmMnB_400x400.jpg"></code>
