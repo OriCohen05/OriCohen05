@@ -3,6 +3,7 @@
 - 🌱 High school student.
 - Learning: Cyber - Networks with Sockets (5 points) , Computer Science - Algorithms and Data Structures in C#.
 - Web development.
+- Let's Study - COMING SOON!!
 <hr/>
 :black_nib:   <b>**Languages and Tools:**  </b>   :black_nib:
 <br><br>
