@@ -5,7 +5,7 @@
 - Web development.
 - Let's Study - COMING SOON!!
 <hr/>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=OriCohen05&hide=html,css)](https://github.com/anuraghazra/github-readme-stats"> </a>
+<a href="(https://github-readme-stats.vercel.app/api/top-langs/?username=OriCohen05&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)"> </a>
 <hr/>
 :black_nib:   <b>**Languages and Tools:**  </b>   :black_nib:
 <br><br>
