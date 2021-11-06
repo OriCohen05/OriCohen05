@@ -5,6 +5,10 @@
 - Web development.
 - Let's Study - COMING SOON!!
 <hr/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <hr/>
 :black_nib:   <b>**Languages and Tools:**  </b>   :black_nib:
 <br><br>
