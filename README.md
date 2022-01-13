@@ -4,8 +4,9 @@
 - Learning: Cyber - Networks with Sockets (5 points) , Computer Science - Algorithms and Data Structures in C#.
 - Web development.
 - Let's Study - COMING SOON!!
-<hr/>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OriCohen05&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<hr/>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OriCohen05&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)-->
 :black_nib:   <b>**Languages and Tools:**  </b>   :black_nib:
 <br><br>
