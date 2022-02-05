@@ -2,7 +2,7 @@
 
 - 🌱 High school student.
 - Learning: Cyber - Networks with Sockets (5 points) , Computer Science - Algorithms and Data Structures in C#.
-- Web development.
+- Web development - ReactJS & Pure JS (OOP)
 - Let's Study - COMING SOON!!
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OriCohen05&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
