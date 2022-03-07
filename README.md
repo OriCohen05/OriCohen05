@@ -1,6 +1,10 @@
 ### Hey. I'm Ori Junior programmer!
 
 - 🌱 High school student.
+Learning: Fullstack web development.
+Software Engineering.
+Cyber security.
+
 Let's Study - School lessons management
 CrediCycle - Smart recycling application.
 Bagrut2 - Employment questionnaire algorithm.
