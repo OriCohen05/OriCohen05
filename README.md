@@ -7,6 +7,4 @@ All of this has taught me the value of hard work, sparked my creativity, and got
 Let's connect, chat about our journeys, and explore all the amazing stuff that tech has to offer!
 
 
-2
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=OriCohen05&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OriCohen05&langs_count=5&theme=tokyonight)]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oricohen05&hide_progress=true)
